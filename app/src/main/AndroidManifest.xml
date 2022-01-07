@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.glanceable">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_glanceable"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_glanceable_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Info"></activity>
+        <activity android:name=".XiaomiRedmiNote8proBegonia" />
+        <activity android:name=".XiaomiRedmiNote88tGinkgoWillow" />
+        <activity android:name=".XiaomiRedmiNote7ProVoilet" />
+        <activity android:name=".XiaomiRedmiNote7Lavender" />
+        <activity android:name=".XiaomiRedmiNote5PlusVince" />
+        <activity android:name=".XiaomiRedmiNote5proWhyred" />
+        <activity android:name=".XiaomiRedmiNote4_4xMido" />
+        <activity android:name=".XiaomiRedmiNote3proKenzo" />
+        <activity android:name=".XiaomiRedmiPocoX2Phoenix" />
+        <activity android:name=".XiaomiK20Mi9tDavinci" />
+        <activity android:name=".XiaomiK20ProMi9tProRaphael" />
+        <activity android:name=".XiaomiRedmi6proSakura" />
+        <activity android:name=".XiaomiRedmi5aRiva" />
+        <activity android:name=".XiaomiRedmi5Rosy" />
+        <activity android:name=".XiaomiRedmi4aRolex" />
+        <activity android:name=".XiaomiRedmi4_4xSantoni" />
+        <activity android:name=".XiaomiRedmi3s3xLand" />
+        <activity android:name=".XiaomiPocoF1" />
+        <activity android:name=".XiaomiMiNote2Scorpio" />
+        <activity android:name=".XiaomiMiMix2sPolaris" />
+        <activity android:name=".XiaomiMiMix2Chiron" />
+        <activity android:name=".XiaomiMiMixLithium" />
+        <activity android:name=".XiaomiMiA3LaurelSprout" />
+        <activity android:name=".XiaomiMiA2JasmineSprout" />
+        <activity android:name=".XiaomiMiA1Tissot" />
+        <activity android:name=".XiaomiMi9seGrus" />
+        <activity android:name=".XiaomiMi9Cepheus" />
+        <activity android:name=".XiaomiMi8LitePlatina" />
+        <activity android:name=".XiaomiMi8Dipper" />
+        <activity android:name=".XiaomiMi5sPlusNatrium" />
+        <activity android:name=".XiaomiMi5sCapricorn" />
+        <activity android:name=".XiaomiMi5Gemini" />
+        <activity android:name=".SamsungS7S7edgeHerolteHero2lte" />
+        <activity android:name=".Realme5pro" />
+        <activity android:name=".Realme3pro" />
+        <activity android:name=".Oneplus7proGuacamole" />
+        <activity android:name=".Oneplus7Guacamoleb" />
+        <activity android:name=".Oneplus6tFajita" />
+        <activity android:name=".Oneplus6Enchilada" />
+        <activity android:name=".Oneplus5tDumpling" />
+        <activity android:name=".Oneplus5Cheeseburger" />
+        <activity android:name=".Oneplus3t" />
+        <activity android:name=".Oneplus2" />
+        <activity android:name=".MotorolaX4Payton" />
+        <activity android:name=".MotorolaOnePowerChef" />
+        <activity android:name=".MotorolaG5sPlusSanders" />
+        <activity android:name=".MotorolaG5PlusPotter" />
+        <activity android:name=".GoogleNexus6pAngler" />
+        <activity android:name=".GoogleNexus5xBullhead" />
+        <activity android:name=".AsusZenfoneMaxProM2" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AsusZenfoneMaxProM1" />
+    </application>
+
+</manifest>

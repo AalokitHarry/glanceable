@@ -1,0 +1,1294 @@
+<resources>
+    <string name="app_name">Glanceable</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aosp_description">
+        The Android Open Source Project (AOSP), an open source initiative by Google. The repository offer the information and source code
+        needed to create custom variants of the Android OS, port devices and accessories to the Android platform which are also called Custom ROM.
+    </string>
+    <string name="custom_rom">
+        Custom Rom is a modified version of pure Android source code. Many developers collaborate to build the fastest and features filled beautiful ROMs.
+        There are a lot of custom ROMs available for many devices to try.
+    </string>
+    <string name="custom_rom_list">
+        Pixel Experience\n
+        Lineage OS\n
+        AOSP Extended\n
+        Havoc-OS\n
+        Evolution X\n
+        Arrow OS\n
+        crDroid\n
+        Bliss ROM\n
+        AOSiP\n
+        Paranoid\n
+        Resurrection Remix\n
+        CesiumOs\n
+        Extended UI
+    </string>
+    <string name="googlePort">
+        Many expert developers have ported the Google camera shipped with Pixel devices for other android devices.
+        To use Gcam port, you need following pre-requisites.
+    </string>
+    <string name="pre_requisites">
+        * Camera2api enabled\n
+        * GCam Port APK
+    </string>
+    <string name="customizing_android">
+        You can customize your android device by installing launchers and icons packs. This can giv you some refreshed look to your device.
+        And if you want some deep customization the you need to have root access of your device. Customizing your device include changing the look of your device as well as
+        increasing performance and battery life for your device.There are some apps popular available.
+    </string>
+    <string name="customizing_android_list">
+        * Magisk Manager\n
+        * Substratum\n
+        * FK Kernel Manager\n
+        * Wakelock Detector\n
+        * Xposed Framework\n
+        * Apps2SD\n
+        * Titanium Backup\n
+        * Viper4Android\n
+        * Tasker\n
+        * Adblock Plus
+    </string>
+    <string name="asus_zenfone_max_pro_m1">
+        Pixel Experience\n
+        AOSP Extended (AEX)\n
+        Lineage OS\n
+        POSP\n
+        Pixys OS\n
+        Resurrection Remix\n
+        Nitrogen OS\n
+        EvolutionX\n
+        Havoc OS\n
+        Reloaded CAF\n
+        Ion OS\n
+        Dot OS\n
+        Syberia OS\n
+        Bootleggers Rom\n
+        Kraken OS\n
+        Atom OS\n
+        Beast Rom\n
+        Crdroid Rom\n
+        Colt OS\n
+        Stag OS\n
+        Superior OS\n
+        COSP\n
+        Arrow OS
+    </string>
+    <string name="asus_zenfone_max_pro_m1_telegram_commands">
+        - 338vendorboot
+        - #aft-new\n
+        - #airtel_volte\n
+        - #ambientstockoreo\n
+        - #aosp_vs_caf\n
+        - #best\n
+        - #blacklist\n
+        - #calibration\n
+        - #call_audio_fix\n
+        - #camera2api\n
+        - #channel\n
+        - #cleanflash_steps\n
+        - #corrupt-state-fix\n
+        - #corrupt-state-fix-ez\n
+        - #decrypt-steps\n
+        - #digital-wellbeing\n
+        - #dolby-no-root\n
+        - #driver\n
+        - #error7\n
+        - #f2fs\n
+        - #fastboot\n
+        - #fastboot-roms\n
+        - #fastboot_steps\n
+        - #firmwares\n
+        - #force-decrypt\n
+        - #gapps\n
+        - #gcam\n
+        - #gcam-2\n
+        - #gcampixel2\n
+        - #gsi\n
+        - #internal_problem\n
+        - #kcal_for_yellowdisplay\n
+        - #kernelauditor\n
+        - #kernels\n
+        - #klapse\n
+        - #livewallpaper\n
+        - #logcat\n
+        - #logcat-zip\n
+        - #logs\n
+        - #los_official\n
+        - #magisk\n
+        - #magisk_18.1\n
+        - #manual_ota_customroms\n
+        - #migrate-q\n
+        - #mods\n
+        - #modulify_v1\n
+        - #native_video_call\n
+        - #nav-gesture-height-stockq\n
+        - #noob_driverfix\n
+        - #noobguide\n
+        - #notes\n
+        - #nxp\n
+        - #official-channels-groups\n
+        - #ot\n
+        - #ota\n
+        - #otg-fix\n
+        - #p3gcam\n
+        - #permissive\n
+        - #persist\n
+        - #pixel3gcam\n
+        - #pixel3launcher\n
+        - #pixel_stuff_q\n
+        - #playgrounds\n
+        - #playstore_notification\n
+        - #ramdisk_cleaner\n
+        - #recovery\n
+        - #rescueparty\n
+        - #roms\n
+        - #safetynetfix\n
+        - #sgsi\n
+        - #slowcharging\n
+        - #smmi\n
+        - #stockcamera\n
+        - #synaptics\n
+        - #teardown\n
+        - #tez\n
+        - #twrp\n
+        - #twrp-pie\n
+        - #unlock\n
+        - #username\n
+        - #viperfx-q\n
+        - #vodafone-volte\n
+        - #volte-icon-mod\n
+        - #x00t_vs_x00td\n
+        - #xda\n
+    </string>
+    <string name="asus_zenfone_max_pro_m2">
+        AOSiP Derpfest OFFICIAL\n
+        Arrow OS OFFICIAL\n
+        Bliss ROM 12.5 OFFICIAL\n
+        Bootleggers 5.0 UNOFFICIAL\n
+        Colt OS Enigma 5.7 OFFICIAL\n
+        Corvus OS 3.5 OFFICIAL\n
+        crDroid 6.4 OFFICIAL\n
+        Dot OS 3.1 OFFICIAL\n
+        Durex ExtraSafe OFFICIAL\n
+        EvolutionX 4.1.69 OFFICIAL\n
+        EvolutionX 4.1 CUSTOM\n
+        ExtendedUI 1.1 UNOFFICIAL\n
+        Havoc OS 3.3 OFFICIAL\n
+        ion OS 2.4.a OFFICIAL\n
+        Lineage OS 17.1 UNOFFICIAL\n
+        MSM Xtended 7.0 OFFICIAL\n
+        Nitrogen OS OFFICIAL\n
+        Paranoid Android UNOFFICIAL\n
+        Pixeldust-X OFFICIAL\n
+        Pixel Experience OFFICIAL\n
+        Pixel Experience Plus OFFICIAL\n
+        Revenge OS 3.2 UNOFFICIAL\n
+        Stag OS UNOFFICIAL\n
+        Superior OS Phoenix OFFICIAL\n
+        Titanium OS OFFICIAL\n
+        Viper OS 6.6 OFFICIAL\n
+        Oxygen OS Stable 10.2\n
+        Oxygen OS OB 8\n
+        MIUI Revolution OS\n
+        Mi Room 11.0.2.0\n
+        MIUI EU 11.0.3.0
+    </string>
+    <string name="google_nexus5x_bullhead">
+        AOSP Extended\n
+        AOSiP ROM\n
+        Bliss ROM\n
+        Carbon ROM\n
+        CypherOS ROM\n
+        Candy ROM\n
+        crDroid\n
+        DespairOS ROM\n
+        DotOS\n
+        Havoc-OS ROM
+        LineageOS\n
+        Liquid Remix ROM\n
+        OMNI ROM\n
+        Pixel Dust ROM\n
+        Pixel Experience\n
+        Resurrection Remix\n
+        ViperOS
+    </string>
+    <string name="google_nexus6p_angler">
+        SuperXE Stock Oreo\n
+        Nitrogen OS\n
+        Pure Nexus\n
+        Resurrection Remix 6.0\n
+        DARK ROM\n
+        crdroid Android 4.0\n
+        AICP 13.0\n
+        CypherOS 5.2\n
+        AquariOS 8.1.0
+    </string>
+    <string name="motorola_g5s_plus_potter">
+        Arrow OS\n
+        Pixel Experience\n
+        Havoc-OS\n
+        Lineage OS\n
+        crDroid\n
+        EvolutionX\n
+        AICP\n
+        Bootleggers\n
+        ExtendedUI\n
+        ElementalX\n
+        AOSiP\n
+        Omni ROM\n
+        Resurrection Remix\n
+        MIUI 10\n
+        RevengeOS\n
+        CosmicOS\n
+        ViperOS\n
+        Pixys OS\n
+        [EOL]KaliLinux NetHunter v1.0 [Kali v2.0/Backtrack 5]
+    </string>
+    <string name="motorola_g5s_plus_sanders">
+        AOSP Extended\n
+        AOSiP\n
+        AICP ROM\n
+        Arrow OS\n
+        Bootleggers\n
+        Colt OS\n
+        Cosmic OS\n
+        crdroid\n
+        Derpfest\n
+        Dirty Unicorns\n
+        EvolutionX\n
+        ExtendedUI\n
+        Havoc-OS\n
+        Ion OS\n
+        Kraken\n
+        Lineage OS\n
+        POSP\n
+        Pixel Experience\n
+        Pixys OS\n
+        Revenge OS\n
+        Superior OS\n
+        MSM Extended
+    </string>
+    <string name="motorola_one_power_chef">
+        Pixel Experience\n
+        Arrow OS\n
+        Lineage OS\n
+        AOSP Extended\n
+        Resurrection Remix\n
+        crDroid\n
+    </string>
+    <string name="motorola_x4_payton">
+        Arrow OS\n
+        AOSP Extended\n
+        AOSiP\n
+        Carbon ROM\n
+        ionOS\n
+        Havoc-OS\n
+        Pixel Experience\n
+        Resurrection Remix\n
+        Superior OS\n
+    </string>
+    <string name="oneplus2">
+        AICP\n
+        AOSP Extended\n
+        AOSiP\n
+        Arrow OS\n
+        Bliss 7.3\n
+        Bootleggers\n
+        Carbon ROM\n
+        Colt OS\n
+        Cosmic OS\n
+        CrDroid\n
+        CypherOS\n
+        Dost OS\n
+        FireHound\n
+        Flyme 6\n
+        FreedomOS\n
+        Havoc-OS\n
+        Hexa Project ROM\n
+        Kali Hunter\n
+        Lineage OS\n
+        Liquid Remix\n
+        Mokee Open Source Project\n
+        MSM Extended\n
+        Pixel Experience\n
+        Pixys OS\n
+        Resurrection Remix\n
+        Superior OS\n
+        TOXYC OS\n
+        Viper OS
+    </string>
+    <string name="oneplus3t">
+        Ancient ROM\n
+        AOSP Extended\n
+        AOSiP\n
+        AOKP\n
+        Beast ROM\n
+        Bliss ROM\n
+        Bootleggers\n
+        Candy OS\n
+        CesiumOS\n
+        Colt-Enigma\n
+        Corvus ROM\n
+        CrDroid\n
+        DerpFest\n
+        Descendant X\n
+        EvolutionX\n
+        FreedomOS\n
+        Luis ROM\n
+        MoKee\n
+        MSM Extended\n
+        NitrogenOS\n
+        Lineage OS\n
+        Pixel Experience\n
+        Resurrection Remix\n
+        Skydragon OS\n
+        Viper OS
+    </string>
+    <string name="oneplus5">
+        Arrow OS\n
+        AOSP Extended\n
+        AOSiP\n
+        AICP\n
+        Bliss ROms\n
+        Bootleggers\n
+        CrDroid\n
+        Havoc-OS\n
+        Kali Nethunter\n
+        Lineage OS\n
+        Liquid Remix\n
+        Nitrogen OS\n
+        MSM Extended\n
+        Pixel Experience\n
+        Sailfish OS\n
+        EvolutionX\n
+        Colt Enigma\n
+        Omni ROM\n
+        Carbon rom\n
+        ViperOS
+    </string>
+    <string name="oneplus5t">
+        AICP\n
+        AOKP\n
+        AOSiP\n
+        AOSP Extended\n
+        BlissROM\n
+        Bootleggers\n
+        Carbon ROM\n
+        CrDroid\n
+        Derpfest\n
+        FreedomOS\n
+        EvolutionX\n
+        ExtendedUI\n
+        HalogenOS\n
+        Havoc-OS\n
+        Kraken Project\n
+        LineageOS\n
+        LiquidRemix\n
+        MSM Extended\n
+        Pixel Experience\n
+        POSP\n
+        Resurrection Remix\n
+        RevengeOS
+        SailFish\n
+        Viper OS
+    </string>
+    <string name="oneplus6t">
+        ArrowOS\n
+        AICP\n
+        AOSP Extended\n
+        AOSiP\n
+        Aquari OS\n
+        BlissROMs\n
+        Bootleggers\n
+        CrDroid\n
+        DOtOS\n
+        EvolutionX\n
+        Havoc-OS\n
+        Lineage OS\n
+        Liquid Remix\n
+        NitrogenOS\n
+        OmniROM\n
+        Pixel Experience\n
+        POSP\n
+        Realme UI\n
+        Revenge OS\n
+        Sailfish OS\n
+        Samsung OneUI\n
+        StagOS\n
+        Superior OS\n
+        Syberia Project\n
+    </string>
+    <string name="oneplus7">
+        AOSiP\n
+        BlissROMs\n
+        CrDroid\n
+        DerpFest\n
+        Havoc-OS\n
+        Lineage OS\n
+        POSP\n
+    </string>
+    <string name="oneplus7pro">
+        AOSPA\n
+        AOSiP\n
+        BlissROMs\n
+        Carbon ROM\n
+        Crdroid\n
+        EvolutionX\n
+        Havoc-OS\n
+        Lineage OS\n
+        OmniROM\n
+        Panaroid Android\n
+        POSP\n
+        Pixel Experience\n
+        SkyDragonOS\n
+    </string>
+    <string name="realme3pro">
+        AICP\n
+        AOKP\n
+        AOSP Extended\n
+        AOSiP Derpfest\n
+        Arrow OS\n
+        crDroid\n
+        EvolutionX\n
+        ExtendedUI\n
+        Havoc-OS\n
+        Lineage OS\n
+        MOKEE\n
+        MSM Extended\n
+        Pixel Experience\n
+        RevengeOS
+    </string>
+    <string name="realme5pro">
+        AOSP Extended\n
+        AOSiP\n
+        ArrowOS\n
+        Bootleggers\n
+        Crdroid\n
+        EvolutionX\n
+        Exteended UI\n
+        Havoc-OS\n
+        Lineage OS\n
+        Pixel Experience\n
+        POSP\n
+        Resurrection Remix\n
+        MIUI 11\n
+        Derpfest\n
+        Oxygen OS\n
+    </string>
+    <string name="samsungs7">
+        AOSP Extended\n
+        AOSiP\n
+        Bootleggers\n
+        crDroid\n
+        EvolutionX\n
+        Havoc-OS\n
+        LineageOS\n
+        NetHunter\n
+        Resurrection Remix\n
+        Pixel Experience\n
+        ZirconiumAOSP
+    </string>
+    <string name="mi5">
+        AOSP Extended\n
+        Atomic-OS\n
+        Cosmic OS\n
+        crDroid\n
+        EvolutionX\n
+        Havoc-OS\n
+        LineageOS\n
+        OmniROM\n
+        Panaroid Android\n
+        Pixel Experience\n
+        Pure Nexus\n
+        Resurrection Remix\n
+        RevengeOS\n
+        RevolutionOS\n
+        Slim7\n
+        Syberia Project\n
+        Ubuntu Touch\n
+        ViperOS
+    </string>
+    <string name="mi5s">
+        AICP\n
+        AOSP Extended\n
+        Bliss ROM\n
+        Bootleggers\n
+        Cosmic OS\n
+        CrDroid\n
+        DotOS\n
+        EcemUserInterface\n
+        FireHound ROM\n
+        Bootleggers\n
+        Havoc-OS\n
+        HydrogenOS\n
+        LineageOS\n
+        Mokee\n
+        POSP\n
+        Pixel Experience\n
+        Resurrection Remix\n
+        RevengeOS\n
+        Superior OS\n
+        Syberia ROM\n
+        ViperOS
+    </string>
+    <string name="mi5sPlus">
+        AICP\n
+        AOSiP\n
+        AOSP Extended\n
+        Atomic OS\n
+        Bootleggers\n
+        Carbon ROM\n
+        ColtOS\n
+        crDroid\n
+        CypherOS\n
+        DotOS\n
+        EcemUserInterface\n
+        ExtendedUi\n
+        Havoc-OS\n
+        HydrogenOS\n
+        AquariOS for Natrium\n
+        Legend ROM\n
+        LineageOS\n
+        Panaroid Android\n
+        Pixel Experience\n
+        Resurrection Remix\n
+        SlimROM\n
+        Syberia Project\n
+        Tesla ROM\n
+        ToxycOS\n
+        ViperOS
+    </string>
+    <string name="mi8">
+        AICP\n
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        BaikalOS\n
+        Bootleggers\n
+        crDroid\n
+        Derpfest\n
+        DotOS\n
+        EvolutionX\n
+        ExtendedUI\n
+        Havoc-OS\n
+        ION OS\n
+        LineageOS\n
+        MSM Extended\n
+        OxygenOS\n
+        Paanaroid Android\n
+        Pixel Experience\n
+        Rebellion OS\n
+        Resurrection Remix\n
+        SuperiorOS\n
+        Syberia Project
+    </string>
+    <string name="mi8lite">
+        AOSiP\n
+        AOSP Extended\n
+        Bliss ROMs\n
+        Bootleggers\n
+        CorvusOS\n
+        EvolutionX\n
+        Havoc-OS\n
+        Phantom OS\n
+        Pixel Experience\n
+        POSP\n
+        SuperiorOS\n
+        TitaniumOS\n
+        ViperOS
+    </string>
+    <string name="mi9">
+        AICP\n
+        AISP\n
+        AOSP Extended\n
+        AOSiP\n
+        COSP\n
+        crDroid\n
+        Descendant OS\n
+        Disability X\n
+        EvolutionX\n
+        ExtendedUI\n
+        Havoc-OS\n
+        LineageOS\n
+        Magna Moonshine\n
+        Panaroid Android\n
+        Pixel Experience\n
+        Syberia Project\n
+        ViperOS
+    </string>
+    <string name="mi9se">
+        AOSiP\n
+        crDroid\n
+        Havoc-OS\n
+        MiUI Mix\n
+        Revolution OS\n
+        Pixel Experience\n
+        XenonHD
+    </string>
+    <string name="mia1">
+        AOSiP\n
+        AOSP Extended\n
+        Bootleggers\n
+        Carbon ROM\n
+        CesiumOS\n
+        crDroid\n
+        Derpfest\n
+        Descendant OS\n
+        DotOS\n
+        EvolutionX\n
+        ExtendedUI\n
+        Havoc-OS\n
+        Kali Hunter\n
+        MSM Extended\n
+        NitrogenOS\n
+        Panaroid Android\n
+        Pixel Dust\n
+        Pixel Experience\n
+        Pixys-OS\n
+        POSP\n
+        RevolutionOS\n
+        SuperiorOS Phoenix\n
+        Syberia Project
+    </string>
+    <string name="mia2">
+        AICP\n
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        Bliss ROM\n
+        Bootleggers\n
+        Corvus ROM\n
+        crDroid\n
+        Derpfest ROM\n
+        DotOS\n
+        EvolutionX\n
+        ExtendedUI\n
+        Floko\n
+        Havoc-OS\n
+        LineageOS\n
+        LLUVIA OS\n
+        Minimal Project\n
+        Pixel Experience\n
+        POSP\n
+        Revenge OS\n
+        SuperiorOS\n
+        Syberia Project\n
+        ViperOS
+    </string>
+    <string name="mia3">
+        AOSiP\n
+        AOSP Extended\n
+        Atom-OS\n
+        CrDroid\n
+        ExtendedUI\n
+        Havoc-OS\n
+        LineageOS\n
+        MIUI 11\n
+        OxygenOS\n
+        Panaroid Android\n
+        Pixel Experience\n
+        PixysOS\n
+        POSP\n
+        Reloaded OS\n
+        Syberia Project\n
+        Titanium OS
+    </string>
+    <string name="mimix">
+        AICP\n
+        AOKP\n
+        AOSiP\n
+        AOSP Extended\n
+        Bliss ROM\n
+        Cardinal AOSP\n
+        CrDroid\n
+        Dirty Unicorns\n
+        ExtendedUI\n
+        FireHound\n
+        Havoc-OS\n
+        HydrogenOS\n
+        Legend ROM\n
+        LineageOS\n
+        Mokee\n
+        Panaroid Android\n
+        PixelExperience\n
+        Syberia OS\n
+        ViperOS\n
+        Xiaomi.EU\n
+        XenonHD
+    </string>
+    <string name="mimix2">
+        AICP\n
+        ArrowOS\n
+        Bootleggers\n
+        CrDroid\n
+        Dirty Unicorns\n
+        DotOS\n
+        Havoc-OS\n
+        LineageOS\n
+        NitrogenOS\n
+        OmniROM\n
+        OxygenOS\n
+        Pixel Experience\n
+        RevengeOS\n
+        StagOS\n
+        Syberia Project\n
+        XenonHD ROM
+    </string>
+    <string name="mimix2s">
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        BaikalOS\n
+        CosmicOS\n
+        CrDroid\n
+        CypherOS\n
+        Derpfest\n
+        DotOS\n
+        ExtendedUI\n
+        Havoc-OS\n
+        LineageOS\n
+        NitrogenOS\n
+        Panaroid Android\n
+        Pixel3ROM\n
+        Pixel Experience\n
+        RebellionOS\n
+        Resurrection Remix\n
+        RevengeOS\n
+        Stag-OS\n
+        Syberia Project\n
+        TitaniumOS
+    </string>
+    <string name="minote2">
+        AOKP\n
+        AOSP\n
+        AOSP Extended\n
+        Bootleggers\n
+        Dirty Unicorns\n
+        DotOS\n
+        LineageOS\n
+        Pixel Experience\n
+        Resurrection Remix
+    </string>
+    <string name="pocof1">
+        AICP\n
+        AIM ROM\n
+        Ancient ROM\n
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        BaikalOS\n
+        Bliss ROM\n
+        Bootleggers\n
+        CarbonROM\n
+        CerberusOS\n
+        CesiumOS\n
+        Colt-OS\n
+        CorvusOS\n
+        Cosmic OS\n
+        COSP\n
+        CrDroid\n
+        CygnusOS\n
+        DevilianOS\n
+        DotOS\n
+        EvolutionX\n
+        Havoc-OS\n
+        HydrogenOS\n
+        ionOS\n
+        LineageOS\n
+        Liquid Remix\n
+        MSM Extended\n
+        NitrogenOS\n
+        OMNI ROM\n
+        OneUI\n
+        OxygenOS\n
+        POSP\n
+        Pixel Dirty\n
+        Pixel Experience\n
+        Pixel ROM\n
+        PixysOS\n
+        RebillionOS\n
+        ReloadedOS\n
+        Resurrection Remix\n
+        RevengeOS\n
+        StagOS\n
+        Superior OS\n
+        Syberia Project\n
+        ViperOS\n
+        XenonHD
+    </string>
+    <string name="redmi3s3x">
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        Bootleggers\n
+        Carbon ROM\n
+        CesiumOS\n
+        CopperheadOS\n
+        Corvus OS\n
+        CrDroid\n
+        Derpfest\n
+        DotOS\n
+        EvolutionX\n
+        ExtendedUI\n
+        ionOS\n
+        LineageOS\n
+        Liquid ROM\n
+        Havoc-OS\n
+        MSM Extended\n
+        NitrogenOS\n
+        Pixel Dirty\n
+        Pixel Experience\n
+        Pixel Reloaded\n
+        PixysOS\n
+        POSP\n
+        PrismaOS\n
+        ReloadedOS\n
+        RevengeOS\n
+        Resurrection Remix\n
+        Syberia Project\n
+        SuperiorOS\n
+        TipsyOS\n
+        ViperOS
+    </string>
+    <string name="redmi44x">
+        AICP\n
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        BaikalOS\n
+        Bootleggers\n
+        CarbonOS\n
+        CerberusOS\n
+        ColtEnigma\n
+        ColtOS\n
+        COSP\n
+        CrDroid\n
+        CTOSP\n
+        CygnusOS\n
+        DescendantOS\n
+        Dirty Unicorns\n
+        Dot Extended\n
+        DotOS\n
+        EvolutionX\n
+        Havoc-OS\n
+        LineageOS\n
+        LiquidROM\n
+        LuisROM\n
+        Mokee\n
+        MSM Extended\n
+        Pixel Experience\n
+        RevengeOS\n
+        PixysOS\n
+        POSP\n
+        Superior OS\n
+        ViperOS
+    </string>
+    <string name="redmi4a">
+        AOSP Extended\n
+        ArrowOS\n
+        Bootleggers\n
+        BellionOS\n
+        CerberusOS\n
+        CrDroid\n
+        COSP\n
+        CygnusOS\n
+        Dirty Unicorns\n
+        DotOS\n
+        EvolutionX\n
+        FrankenROM\n
+        Havoc-OS\n
+        ionOS\n
+        Kali Hunter\n
+        KomodoOS\n
+        KOTP\n
+        LineageOS\n
+        Liquid Remix\n
+        Mokee\n
+        NitrogenOS\n
+        PearlOS\n
+        Pixel Experience\n
+        PixysOS\n
+        Project Extended\n
+        RebillionOS\n
+        Resurrection Remix\n
+        RevengeOS\n
+        Samsung Experience\n
+        SuperiorOS\n
+        ViperOS\n
+        ZirconiumAOSP
+    </string>
+    <string name="redmi5">
+        AOSP Extended\n
+        AOSiP\n
+        ArrowOS\n
+        Bootleggers\n
+        COSP\n
+        CrDroid\n
+        Derpfest\n
+        DotOS\n
+        EvolutionX\n
+        Havoc-OS\n
+        LineageOS\n
+        Liquid Remix\n
+        MIUI Mix\n
+        MSM Extended\n
+        OxygenOS\n
+        Panaroid Android\n
+        Pixel Experience\n
+        PixysOS\n
+        POSP\n
+        Resurrection Remix\n
+        SuperiorOS\n
+        ViperOS\n
+        XenonHD
+    </string>
+    <string name="redmi5a">
+        AOKP\n
+        AOSiP\n
+        AOSP Extended\n
+        Bootleggers\n
+        Carbon ROM\n
+        Colt-OS\n
+        CrDroid\n
+        Dirty Unicorn\n
+        DotOS\n
+        FireHound\n
+        Havoc-OS\n
+        LineageOS\n
+        NitrogenOS\n
+        Pixel Experience\n
+        PixysOS\n
+        RebillionHub\n
+        Resurrection Remix\n
+        SuperiorOS\n
+        ViperOS\n
+        XenonHD\n
+        ZirconiumAOSP
+    </string>
+    <string name="redmi6pro">
+        AOSP Extended\n
+        ArrowOS\n
+        Beast ROM\n
+        CesiumOS\n
+        CrDroid\n
+        DotOS\n
+        EvolutionX\n
+        Havoc-OS\n
+        LineageOS\n
+        Pixel Experience\n
+        PixysOS\n
+        Project Extended\n
+        Resurrection Remix\n
+        RevengeOS\n
+        ViperOS\n
+    </string>
+    <string name="redmik20pro">
+        AIM ROM\n
+        AOSiP\n
+        ArrowOS\n
+        Beast ROM\n
+        Bootleggers\n
+        CesiumOS\n
+        CorvusOS\n
+        Cosmic OS\n
+        CrDroid\n
+        CygnusOS\n
+        Derpfest\n
+        DescendantX\n
+        EvolutionX\n
+        ExtendedUI\n
+        ionOS\n
+        LineageOS\n
+        MIUI Mix\n
+        Mokee\n
+        OmniROM\n
+        OxygenOS\n
+        Panaroid Android\n
+        Pixel Experience\n
+        POSP\n
+        Resurrection Remix\n
+        RevengeOS\n
+        SyberiaOS\n
+        TitaniumOS
+    </string>
+    <string name="redmik20">
+        AICP\n
+        AOSiP\n
+        AOSP Extended\n
+        Bootleggers\n
+        Colt-OS\n
+        CrDroid\n
+        EvolutionX\n
+        ExtendedUI\n
+        Havoc-OS\n
+        LineageOS
+        MSM Extended\n
+        Panaroid Android\n
+        Pixel Experience\n
+        POSP\n
+        StagOS\n
+        TitaniumOS
+    </string>
+    <string name="pocox2">
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        Bliss ROM\n
+        Carbon ROM\n
+        CrDroid\n
+        Derpfest\n
+        ExtendedUI\n
+        Havoc-OS\n
+        LineageOS\n
+    </string>
+    <string name="note3pro">
+        AICP\n
+        AIM ROM\n
+        Ancient-OS\n
+        AOSP Extended\n
+        ArrowOS\n
+        Bliss ROM\n
+        Bootleggers\n
+        CandyROM\n
+        CerberusOS\n
+        Colt-Enigma\n
+        CosmicOS\n
+        CrDroid\n
+        CypherOS\n
+        DotOS\n
+        EvolutionX\n
+        FireHound\n
+        Havoc-OS\n
+        Kali NetHunter\n
+        LineageOS\n
+        Liquid Remix\n
+        Mokee\n
+        NitrogenOS\n
+        OmniROM\n
+        Panaroid Android\n
+        Pixel Experience\n
+        PixysOS\n
+        POSP\n
+        Project Pearl\n
+        RapidOS\n
+        Resurrection Remix\n
+        RevengeOS\n
+        SailfishOS\n
+        SuperiorOS\n
+        Syberia Project\n
+        ToxycOS\n
+        ViperOS
+    </string>
+    <string name="redminote4">
+        AICP\n
+        AIM
+        AncientROM\n
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        AtomOS\n
+        BlissROMs\n
+        Bootleggers\n
+        Colt-OS\n
+        Conquer)S\n
+        CorvusOS\n
+        COSP\n
+        CrDroid\n
+        Derpfest\n
+        DescendantOS\n
+        EvolutionX\n
+        ExtendedUI\n
+        Havoc-OS\n
+        ionOS\n
+        Kali NetHunter\n
+        LineageOS\n
+        Liquid Remix\n
+        LuisROM\n
+        Mokee\n
+        MSM Extended\n
+        NitrogenOS\n
+        OmniROM\n
+        OxygenOS\n
+        Pixel Experience\n
+        POSP\n
+        RebillionOS\n
+        RevengeOS\n
+        StagOS\n
+        SuperiorOS\n
+        Syberia Project\n
+        TitaniumOS\n
+    </string>
+    <string name="redminote5pro">
+        AOSmP\n
+        AOSP Extended\n
+        ArrowOS\n
+        ATOM-OS\n
+        BlissROM\n
+        Bootleggers\n
+        CorvusOD\n
+        COSP\n
+        CrDroid\n
+        Derpfest\n
+        DescendantOS\n
+        DotOS\n
+        ExtendedUI\n
+        Havoc-OS\n
+        ionOS\n
+        Kali NetHunter\n
+        LineageOS\n
+        Liquid Remix\n
+        MIUI Mix\n
+        MSM Extended\n
+        NitrogenOS\n
+        OmniROM\n
+        OneUI\n
+        OxygenOS\n
+        Pixel Experience\n
+        PixysOS\n
+        POSP\n
+        Resurrection Remix\n
+        RevengeOS\n
+        SuperiorOS\n
+        TitaniumOS
+    </string>
+    <string name="redminote5">
+        Ancien ROM\n
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        ATOM-OS\n
+        Bootleggers\n
+        Cardinal AOSP\n
+        COSP\n
+        CrDroid\n
+        Derpfest\n
+        DescendantOS\n
+        Dirty Unicorns\n
+        DotOS\n
+        EvolutionX\n
+        FlymeOS\n
+        Havoc-OS\n
+        LineageOS\n
+        Liquid Remix\n
+        ionOS\n
+        MagmaProject Moonshine\n
+        MSM Extended\n
+        NitrogenOS\n
+        OxygenOS\n
+        Paranoid Android\n
+        Pearl OS\n
+        Pixel Experience\n
+        PixysOS\n
+        PornAOSP\n
+        POSP\n
+        RebellionOS\n
+        Resurrection Remix\n
+        RevengeOS\n
+        SailfishOS\n
+        SuperiorOS\n
+        Syberia Project\n
+        ViperOS\n
+        XenonHD\n
+        Zinconium Project
+    </string>
+    <string name="redminote7">
+        AOSiP\n
+        AOSP Extended\n
+        ArrowOS\n
+        ATOM-OS\n
+        Atlantis Concept\n
+        Bootleggers\n
+        Cherish OS\n
+        CorvusOS\n
+        CrDroid\n
+        DescendantX\n
+        Devilian OS\n
+        EvolutionX\n
+        Havoc-OS\n
+        ionOS\n
+        LineageOS\n
+        Mokee\n
+        MIUI Mix\n
+        Minimal Project\n
+        NitrogenOS\n
+        Pixel Experience\n
+        POSP\n
+        RevengeOS\n
+        SuperiorOS\n
+        Syberia Project\n
+        Xperience\n
+        Yodita
+    </string>
+    <string name="redminote7pro">
+        AICP\n
+        AOSP Extended\n
+        ArrowOS\n
+        ATOM-OS\n
+        BlissROM\n
+        Bootleggers\n
+        CandyROM\n
+        CarbonROM\n
+        CesiumOS\n
+        Colt-OS\n
+        Corvus-OS\n
+        CrDroid\n
+        Derpfest\n
+        DotOS\n
+        EvolutionX\n
+        ExtendedUI\n
+        Havoc-OS\n
+        ionOS\n
+        LineageOS\n
+        Liquid Remix\n
+        MSM Extended\n
+        OxygenOS\n
+        Pixel Experience\n
+        PixelPlusUi\n
+        PixysOS\n
+        POSP\n
+        ReloadedOS\n
+        Resurrection Remix\n
+        StagOS\n
+        SuperiorOS\n
+        TitaniumOS
+    </string>
+    <string name="redminote8">
+        AOSiP\n
+        AOSP Extended\n
+        Bootleggers\n
+        CesiumOS\n
+        CrDroid\n
+        Derpfest\n
+        DotOS\n
+        EvolutionX\n
+        Havoc-OS\n
+        ionOS\n
+        LineageOS\n
+        MIUI Mix\n
+        MSM Extended\n
+        Pixel Experience\n
+        POSP\n
+        RevengeOS\n
+        SuperiorOS\n
+        Syberia Project
+    </string>
+    <string name="redminote8pro">
+        CesiumOS\n
+        EvolutionX\n
+        LineageOS\n
+        Pixel Experience\n
+        POSP
+    </string>
+    <string name="disclaimer">
+        I do not anything in this app. Custom ROMs and ROM maintenance been prepared by their
+        respective developers. All the details have been fetched from xda forums.
+    </string>
+    <string name="about">
+        This is an app about custom ROMs and provide the download and chat rooms of these custom ROMs.\n
+        You will find direct links to the XDA Discussion Groups and Telegram Discussion Groups.\n
+        You will find all the custom ROMs that are available for the listed device in this application.
+    </string>
+</resources>
